@@ -1,1 +1,17 @@
+.firstdiv{
+  display: flex;
+}
+.childdiv{
+width: 50%;
+height: 50%;
+color: white;
+ background-color: red;
+  border: 5px solid black;
+    
+}
 
+.childdiv:nth-of-type(2){
+background-color:green !important;
+
+  
+}

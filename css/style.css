@@ -1,5 +1,6 @@
 .firstdiv{
   display: flex;
+  height: 100%;
 }
 .childdiv{
 width: 50%;

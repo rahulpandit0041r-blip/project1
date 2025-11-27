@@ -10,6 +10,7 @@ body {
 .logo  {
   width:25% ;
   background-color: pink;
+  flex:1;
 }
 .logo a{
 width: 100%;
@@ -28,8 +29,12 @@ width: 75%;
   display:flex;
   background-color: black;
   text-color:white;
+  flex:2;
 }
 .menubar{
+  display: flex;
+  align-items:center;
+  justify-content:space-between;
 height: 100%;
   width:100%;
 
@@ -55,12 +60,6 @@ list-style-type:none;
 text-dacoration: none;
   color: white;
 
-} 
-
-.menubar a {
-
-font-size:1.2vw;
-  
 }
 @media (max-width:576px){
   .header {

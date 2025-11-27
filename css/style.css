@@ -34,13 +34,13 @@ height:100%;
   width: 100%;
   
 }
-
-.menu .menubar ul{
+.menubar ul{
 height:100%;
   width:100%;
   display:flex;
   aligh-items:center:
   justify-content: space-around;
+  gap:40px;
 }
 .menu ul li{
 list-style-type:none;

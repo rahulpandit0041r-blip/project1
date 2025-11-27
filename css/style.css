@@ -29,6 +29,25 @@ width: 75%;
   background-color: black;
   
 }
+.menu .menubar{
+height:100%;
+  width: 100%;
+}
+
+.menu .menubar ul{
+height:100%;
+  width:100%;
+  display:flex;
+  aligh-items:center:
+  justify-content: space-around;
+}
+.menu ul li{
+list-style-type:none;
+  color:black;
+  
+
+  
+}
 @media (max-width:576px){
   .header {
     height: 7%;

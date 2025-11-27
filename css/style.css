@@ -49,9 +49,8 @@ list-style-type:none;
   
 }
 .menu ul li a{
-text-dacoration: white;
-
-  
+text-dacoration: none;
+  color: white;
 } 
 @media (max-width:576px){
   .header {

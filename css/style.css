@@ -58,3 +58,6 @@ text-dacoration: none;
     background-color: red;
   }
 }
+.menu .menubar ul{
+  justify-content: space-around;
+}

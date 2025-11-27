@@ -54,6 +54,7 @@ list-style-type:none;
 .menu ul li a{
 text-dacoration: none;
   color: white;
+  text-size: 40px;
 } 
 @media (max-width:576px){
   .header {

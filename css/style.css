@@ -44,6 +44,7 @@ height:100%;
 }
 .menu ul li{
 list-style-type:none;
+  gap: 40px;
   color:black;
   
 

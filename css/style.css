@@ -47,9 +47,12 @@ list-style-type:none;
   gap: 40px;
   color:black;
   
+}
+.menu ul li a{
+text-dacoration: white;
 
   
-}
+} 
 @media (max-width:576px){
   .header {
     height: 7%;

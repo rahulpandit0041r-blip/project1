@@ -29,6 +29,12 @@ width: 75%;
   background-color: black;
   text-color:white;
 }
+.menubar{
+height: 100%;
+  width:100%;
+
+  
+}
 .menubar ul{
 height:100%;
   width:100%;

@@ -6,7 +6,7 @@ body {
   height: 10%;
   background-color: blue;
   display:flex;
-  overflow:hidden;
+  overflow:none;
 }
 .logo  {
   width:25% ;
@@ -60,7 +60,7 @@ list-style-type:none;
 .menu ul li a{
 text-dacoration: none;
   color: white;
-  font-size:1.5vw;
+  font-size:3vw;
   position: absolute;
 }
 

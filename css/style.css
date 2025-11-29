@@ -71,10 +71,7 @@ text-decoration: none;
   font-size:min(1.5vw,1.5vw);
   position: fixed;
 }
-.menu a {
-  font-size:1.2rem;
-  white-space: nowrap;
-}
+
 @media (max-width:576px){
   .header {
     height: 7%;

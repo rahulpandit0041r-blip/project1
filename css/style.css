@@ -59,6 +59,7 @@ list-style-type:none;
 .menu ul li a{
 text-dacoration: none;
   color: white;
+  font-size:5%;
 }
 
 @media (max-width:576px){

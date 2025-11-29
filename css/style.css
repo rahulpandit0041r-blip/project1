@@ -29,8 +29,6 @@ width: 75%;
   display:flex;
   background-color: black;
   text-color:white;
-  transform:scale(1);
-  transform-origion: top left;
 
 }
 .menubar{
@@ -63,10 +61,6 @@ text-dacoration: none;
   color: white;
 }
 
-menu a {
-  font-size: 20px;
-  letter-spacing:2px;
-}
 @media (max-width:576px){
   .header {
     height: 7%;

@@ -6,7 +6,7 @@ body {
   height: 10%;
   background-color: blue;
   display:flex;
-  overflow:none;
+  overflow:hidden;
 }
 .logo  {
   width:25% ;
@@ -68,5 +68,6 @@ text-decoration: none;
   .header {
     height: 7%;
     background-color: red;
+    
   }
 }

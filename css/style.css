@@ -61,8 +61,12 @@ list-style-type:none;
 .menu ul li a{
 text-dacoration: none;
   color: white;
+}
 
-
+menu a {
+  font-size: 20px;
+  letter-spacing:2px;
+}
 @media (max-width:576px){
   .header {
     height: 7%;

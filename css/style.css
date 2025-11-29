@@ -1,5 +1,9 @@
+
 body {
   margin:0;
+}
+*{
+  zoom:1 !important;
 }
 .header {
   width: 100%;

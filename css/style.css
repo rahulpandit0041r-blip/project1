@@ -10,7 +10,7 @@ body {
 .logo  {
   width:25% ;
   background-color: pink;
-  flex:1;
+
 }
 .logo a{
 width: 100%;
@@ -29,7 +29,9 @@ width: 75%;
   display:flex;
   background-color: black;
   text-color:white;
-  flex:2;
+  transform:scale(1);
+  transform-origion: top left;
+
 }
 .menubar{
   display: flex;
@@ -60,7 +62,7 @@ list-style-type:none;
 text-dacoration: none;
   color: white;
 
-}
+
 @media (max-width:576px){
   .header {
     height: 7%;

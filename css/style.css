@@ -61,6 +61,7 @@ list-style-type:none;
 text-dacoration: none;
   color: white;
   font-size:3vw;
+  position: absolute;
 }
 
 @media (max-width:576px){

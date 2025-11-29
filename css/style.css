@@ -6,6 +6,7 @@ body {
   height: 10%;
   background-color: blue;
   display:flex;
+  position:fixed;
 
 }
 .logo  {
